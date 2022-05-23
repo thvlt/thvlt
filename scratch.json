@@ -1,0 +1,6 @@
+{
+    "version": "3.0",
+    "url": "https://github.com/thvlt/thvlt/archive/refs/tags/3.0.zip",
+    "extract_dir": "scratch",
+    "bin": "scratch.exe"
+}
